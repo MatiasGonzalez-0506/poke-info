@@ -69,8 +69,8 @@ text-align: center;
 .container-description{
   border: 1px solid;
   width: 20rem;
-  text-align: center;
   color: black;
+  padding-left: 4rem;
 }
 
 .text{
