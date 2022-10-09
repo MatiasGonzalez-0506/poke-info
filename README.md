@@ -1,1 +1,1 @@
-pokeinfomatiasgd.netlify.app
+https://pokeinfomatiasgd.netlify.app
